@@ -27,28 +27,28 @@ import (
 
 	"github.com/davecgh/go-spew/spew"
 
-	"github.com/phillinzzz/newBsc/accounts"
-	"github.com/phillinzzz/newBsc/accounts/abi"
-	"github.com/phillinzzz/newBsc/accounts/keystore"
-	"github.com/phillinzzz/newBsc/accounts/scwallet"
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/common/gopool"
-	"github.com/phillinzzz/newBsc/common/hexutil"
-	"github.com/phillinzzz/newBsc/common/math"
-	"github.com/phillinzzz/newBsc/consensus"
-	"github.com/phillinzzz/newBsc/consensus/clique"
-	"github.com/phillinzzz/newBsc/consensus/ethash"
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/core/rawdb"
-	"github.com/phillinzzz/newBsc/core/state"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/core/vm"
-	"github.com/phillinzzz/newBsc/crypto"
-	"github.com/phillinzzz/newBsc/log"
-	"github.com/phillinzzz/newBsc/p2p"
-	"github.com/phillinzzz/newBsc/params"
-	"github.com/phillinzzz/newBsc/rlp"
-	"github.com/phillinzzz/newBsc/rpc"
+	"github.com/baijiahei888/newBsc1/accounts"
+	"github.com/baijiahei888/newBsc1/accounts/abi"
+	"github.com/baijiahei888/newBsc1/accounts/keystore"
+	"github.com/baijiahei888/newBsc1/accounts/scwallet"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/common/gopool"
+	"github.com/baijiahei888/newBsc1/common/hexutil"
+	"github.com/baijiahei888/newBsc1/common/math"
+	"github.com/baijiahei888/newBsc1/consensus"
+	"github.com/baijiahei888/newBsc1/consensus/clique"
+	"github.com/baijiahei888/newBsc1/consensus/ethash"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/core/rawdb"
+	"github.com/baijiahei888/newBsc1/core/state"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/core/vm"
+	"github.com/baijiahei888/newBsc1/crypto"
+	"github.com/baijiahei888/newBsc1/log"
+	"github.com/baijiahei888/newBsc1/p2p"
+	"github.com/baijiahei888/newBsc1/params"
+	"github.com/baijiahei888/newBsc1/rlp"
+	"github.com/baijiahei888/newBsc1/rpc"
 	"github.com/tyler-smith/go-bip39"
 )
 
@@ -432,7 +432,7 @@ func (s *PrivateAccountAPI) SignTransaction(ctx context.Context, args SendTxArgs
 //
 // The key used to calculate the signature is decrypted with the given password.
 //
-// https://github.com/phillinzzz/newBsc/wiki/Management-APIs#personal_sign
+// https://github.com/baijiahei888/newBsc1/wiki/Management-APIs#personal_sign
 func (s *PrivateAccountAPI) Sign(ctx context.Context, data hexutil.Bytes, addr common.Address, passwd string) (hexutil.Bytes, error) {
 	// Look up the wallet containing the requested signer
 	account := accounts.Account{Address: addr}
@@ -460,7 +460,7 @@ func (s *PrivateAccountAPI) Sign(ctx context.Context, data hexutil.Bytes, addr c
 // Note, the signature must conform to the secp256k1 curve R, S and V values, where
 // the V value must be 27 or 28 for legacy reasons.
 //
-// https://github.com/phillinzzz/newBsc/wiki/Management-APIs#personal_ecRecover
+// https://github.com/baijiahei888/newBsc1/wiki/Management-APIs#personal_ecRecover
 func (s *PrivateAccountAPI) EcRecover(ctx context.Context, data, sig hexutil.Bytes) (common.Address, error) {
 	if len(sig) != crypto.SignatureLength {
 		return common.Address{}, fmt.Errorf("signature must be %d bytes long", crypto.SignatureLength)

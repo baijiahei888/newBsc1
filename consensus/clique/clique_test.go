@@ -20,13 +20,13 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/core/rawdb"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/core/vm"
-	"github.com/phillinzzz/newBsc/crypto"
-	"github.com/phillinzzz/newBsc/params"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/core/rawdb"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/core/vm"
+	"github.com/baijiahei888/newBsc1/crypto"
+	"github.com/baijiahei888/newBsc1/params"
 )
 
 // This test case is a repro of an annoying bug that took us forever to catch.

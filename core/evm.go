@@ -19,10 +19,10 @@ package core
 import (
 	"math/big"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/consensus"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/core/vm"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/consensus"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/core/vm"
 )
 
 // ChainContext supports retrieving headers and consensus parameters from the

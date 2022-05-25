@@ -23,13 +23,13 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/crypto"
-	"github.com/phillinzzz/newBsc/eth/protocols/eth"
-	"github.com/phillinzzz/newBsc/internal/utesting"
-	"github.com/phillinzzz/newBsc/p2p"
-	"github.com/phillinzzz/newBsc/p2p/enode"
-	"github.com/phillinzzz/newBsc/p2p/rlpx"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/crypto"
+	"github.com/baijiahei888/newBsc1/eth/protocols/eth"
+	"github.com/baijiahei888/newBsc1/internal/utesting"
+	"github.com/baijiahei888/newBsc1/p2p"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
+	"github.com/baijiahei888/newBsc1/p2p/rlpx"
 	"github.com/stretchr/testify/assert"
 )
 

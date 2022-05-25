@@ -25,9 +25,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/internal/testlog"
-	"github.com/phillinzzz/newBsc/log"
-	"github.com/phillinzzz/newBsc/rpc"
+	"github.com/baijiahei888/newBsc1/internal/testlog"
+	"github.com/baijiahei888/newBsc1/log"
+	"github.com/baijiahei888/newBsc1/rpc"
 	"github.com/gorilla/websocket"
 	"github.com/stretchr/testify/assert"
 )

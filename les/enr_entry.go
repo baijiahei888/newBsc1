@@ -17,10 +17,10 @@
 package les
 
 import (
-	"github.com/phillinzzz/newBsc/core/forkid"
-	"github.com/phillinzzz/newBsc/p2p/dnsdisc"
-	"github.com/phillinzzz/newBsc/p2p/enode"
-	"github.com/phillinzzz/newBsc/rlp"
+	"github.com/baijiahei888/newBsc1/core/forkid"
+	"github.com/baijiahei888/newBsc1/p2p/dnsdisc"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
+	"github.com/baijiahei888/newBsc1/rlp"
 )
 
 // lesEntry is the "les" ENR entry. This is set for LES servers only.

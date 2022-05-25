@@ -28,7 +28,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/phillinzzz/newBsc/log"
+	"github.com/baijiahei888/newBsc1/log"
 )
 
 var (

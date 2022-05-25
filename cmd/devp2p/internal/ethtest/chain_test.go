@@ -21,8 +21,8 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/eth/protocols/eth"
-	"github.com/phillinzzz/newBsc/p2p"
+	"github.com/baijiahei888/newBsc1/eth/protocols/eth"
+	"github.com/baijiahei888/newBsc1/p2p"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -27,10 +27,10 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/params"
-	"github.com/phillinzzz/newBsc/rlp"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/params"
+	"github.com/baijiahei888/newBsc1/rlp"
 	"golang.org/x/crypto/sha3"
 )
 

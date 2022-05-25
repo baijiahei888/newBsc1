@@ -22,12 +22,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/phillinzzz/newBsc/accounts/abi/bind"
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/crypto"
-	"github.com/phillinzzz/newBsc/light"
-	"github.com/phillinzzz/newBsc/params"
+	"github.com/baijiahei888/newBsc1/accounts/abi/bind"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/crypto"
+	"github.com/baijiahei888/newBsc1/light"
+	"github.com/baijiahei888/newBsc1/params"
 )
 
 // Test light syncing which will download all headers from genesis.
@@ -196,7 +196,7 @@ func testMissOracleBackend(t *testing.T, hasCheckpoint bool, protocol int) {
 	// that user wants to unlock something which blocks the oracle backend
 	// initialisation. But at the same time syncing starts.
 	//
-	// See https://github.com/phillinzzz/newBsc/issues/20097 for more detail.
+	// See https://github.com/baijiahei888/newBsc1/issues/20097 for more detail.
 	//
 	// In this case, client should run light sync or legacy checkpoint sync
 	// if hardcoded checkpoint is configured.

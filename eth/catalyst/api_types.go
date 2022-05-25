@@ -17,8 +17,8 @@
 package catalyst
 
 import (
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/common/hexutil"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/common/hexutil"
 )
 
 //go:generate go run github.com/fjl/gencodec -type assembleBlockParams -field-override assembleBlockParamsMarshaling -out gen_blockparams.go

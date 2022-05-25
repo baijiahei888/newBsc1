@@ -20,11 +20,11 @@ import (
 	"bytes"
 	"time"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/core/rawdb"
-	"github.com/phillinzzz/newBsc/ethdb"
-	"github.com/phillinzzz/newBsc/log"
-	"github.com/phillinzzz/newBsc/metrics"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/core/rawdb"
+	"github.com/baijiahei888/newBsc1/ethdb"
+	"github.com/baijiahei888/newBsc1/log"
+	"github.com/baijiahei888/newBsc1/metrics"
 )
 
 // wipeSnapshot starts a goroutine to iterate over the entire key-value database

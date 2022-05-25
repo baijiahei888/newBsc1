@@ -24,9 +24,9 @@ import (
 	"testing"
 
 	"github.com/VictoriaMetrics/fastcache"
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/core/rawdb"
-	"github.com/phillinzzz/newBsc/rlp"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/core/rawdb"
+	"github.com/baijiahei888/newBsc1/rlp"
 )
 
 // randomHash generates a random blob of data and returns it as a hash.

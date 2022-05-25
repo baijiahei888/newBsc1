@@ -16,7 +16,7 @@
 
 package downloader
 
-import "github.com/phillinzzz/newBsc/core/types"
+import "github.com/baijiahei888/newBsc1/core/types"
 
 type DoneEvent struct {
 	Latest *types.Header

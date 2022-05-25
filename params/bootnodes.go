@@ -16,7 +16,7 @@
 
 package params
 
-import "github.com/phillinzzz/newBsc/common"
+import "github.com/baijiahei888/newBsc1/common"
 
 // MainnetBootnodes are the enode URLs of the P2P bootstrap nodes running on
 // the main Ethereum network.

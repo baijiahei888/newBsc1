@@ -27,16 +27,16 @@ import (
 	"strings"
 	"time"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/core/rawdb"
-	"github.com/phillinzzz/newBsc/core/state"
-	"github.com/phillinzzz/newBsc/core/state/snapshot"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/crypto"
-	"github.com/phillinzzz/newBsc/ethdb"
-	"github.com/phillinzzz/newBsc/log"
-	"github.com/phillinzzz/newBsc/rlp"
-	"github.com/phillinzzz/newBsc/trie"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/core/rawdb"
+	"github.com/baijiahei888/newBsc1/core/state"
+	"github.com/baijiahei888/newBsc1/core/state/snapshot"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/crypto"
+	"github.com/baijiahei888/newBsc1/ethdb"
+	"github.com/baijiahei888/newBsc1/log"
+	"github.com/baijiahei888/newBsc1/rlp"
+	"github.com/baijiahei888/newBsc1/trie"
 )
 
 const (

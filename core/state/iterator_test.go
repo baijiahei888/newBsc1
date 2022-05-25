@@ -20,8 +20,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/ethdb"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/ethdb"
 )
 
 // Tests that the node iterator indeed walks over the entire database contents.

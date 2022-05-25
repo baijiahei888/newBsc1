@@ -20,7 +20,7 @@ import (
 	"testing"
 
 	"github.com/dop251/goja"
-	"github.com/phillinzzz/newBsc/internal/jsre"
+	"github.com/baijiahei888/newBsc1/internal/jsre"
 )
 
 // TestUndefinedAsParam ensures that personal functions can receive

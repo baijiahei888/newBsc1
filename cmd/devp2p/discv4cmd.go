@@ -22,12 +22,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/phillinzzz/newBsc/cmd/devp2p/internal/v4test"
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/crypto"
-	"github.com/phillinzzz/newBsc/p2p/discover"
-	"github.com/phillinzzz/newBsc/p2p/enode"
-	"github.com/phillinzzz/newBsc/params"
+	"github.com/baijiahei888/newBsc1/cmd/devp2p/internal/v4test"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/crypto"
+	"github.com/baijiahei888/newBsc1/p2p/discover"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
+	"github.com/baijiahei888/newBsc1/params"
 	"gopkg.in/urfave/cli.v1"
 )
 

@@ -7,10 +7,10 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/common/hexutil"
-	"github.com/phillinzzz/newBsc/common/math"
-	"github.com/phillinzzz/newBsc/params"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/common/hexutil"
+	"github.com/baijiahei888/newBsc1/common/math"
+	"github.com/baijiahei888/newBsc1/params"
 )
 
 var _ = (*genesisSpecMarshaling)(nil)

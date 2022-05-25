@@ -5,8 +5,8 @@ Maintainer: {{.Author}}
 Build-Depends: debhelper (>= 8.0.0), {{.GoBootPackage}}
 Standards-Version: 3.9.5
 Homepage: https://ethereum.org
-Vcs-Git: git://github.com/phillinzzz/newBsc.git
-Vcs-Browser: https://github.com/phillinzzz/newBsc
+Vcs-Git: git://github.com/baijiahei888/newBsc1.git
+Vcs-Browser: https://github.com/baijiahei888/newBsc1
 
 Package: {{.Name}}
 Architecture: any

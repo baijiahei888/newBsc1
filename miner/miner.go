@@ -22,16 +22,16 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/common/hexutil"
-	"github.com/phillinzzz/newBsc/consensus"
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/core/state"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/eth/downloader"
-	"github.com/phillinzzz/newBsc/event"
-	"github.com/phillinzzz/newBsc/log"
-	"github.com/phillinzzz/newBsc/params"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/common/hexutil"
+	"github.com/baijiahei888/newBsc1/consensus"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/core/state"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/eth/downloader"
+	"github.com/baijiahei888/newBsc1/event"
+	"github.com/baijiahei888/newBsc1/log"
+	"github.com/baijiahei888/newBsc1/params"
 )
 
 // Backend wraps all methods required for mining.

@@ -19,8 +19,8 @@ package les
 import (
 	"time"
 
-	"github.com/phillinzzz/newBsc/common/bitutil"
-	"github.com/phillinzzz/newBsc/light"
+	"github.com/baijiahei888/newBsc1/common/bitutil"
+	"github.com/baijiahei888/newBsc1/light"
 )
 
 const (

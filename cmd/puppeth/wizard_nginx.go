@@ -19,7 +19,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/phillinzzz/newBsc/log"
+	"github.com/baijiahei888/newBsc1/log"
 )
 
 // ensureVirtualHost checks whether a reverse-proxy is running on the specified

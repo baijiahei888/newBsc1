@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/common"
+	"github.com/baijiahei888/newBsc1/common"
 )
 
 func TestImpactOfValidatorOutOfService(t *testing.T) {

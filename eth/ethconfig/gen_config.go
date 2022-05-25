@@ -5,13 +5,13 @@ package ethconfig
 import (
 	"time"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/consensus/ethash"
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/eth/downloader"
-	"github.com/phillinzzz/newBsc/eth/gasprice"
-	"github.com/phillinzzz/newBsc/miner"
-	"github.com/phillinzzz/newBsc/params"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/consensus/ethash"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/eth/downloader"
+	"github.com/baijiahei888/newBsc1/eth/gasprice"
+	"github.com/baijiahei888/newBsc1/miner"
+	"github.com/baijiahei888/newBsc1/params"
 )
 
 // MarshalTOML marshals as TOML.

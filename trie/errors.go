@@ -19,7 +19,7 @@ package trie
 import (
 	"fmt"
 
-	"github.com/phillinzzz/newBsc/common"
+	"github.com/baijiahei888/newBsc1/common"
 )
 
 // MissingNodeError is returned by the trie functions (TryGet, TryUpdate, TryDelete)

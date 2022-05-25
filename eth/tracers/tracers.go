@@ -21,7 +21,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/phillinzzz/newBsc/eth/tracers/internal/tracers"
+	"github.com/baijiahei888/newBsc1/eth/tracers/internal/tracers"
 )
 
 // all contains all the built in JavaScript tracers by name.

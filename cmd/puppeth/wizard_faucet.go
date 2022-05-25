@@ -20,8 +20,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/phillinzzz/newBsc/accounts/keystore"
-	"github.com/phillinzzz/newBsc/log"
+	"github.com/baijiahei888/newBsc1/accounts/keystore"
+	"github.com/baijiahei888/newBsc1/log"
 )
 
 // deployFaucet queries the user for various input on deploying a faucet, after

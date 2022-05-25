@@ -27,12 +27,12 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/phillinzzz/newBsc/accounts"
-	"github.com/phillinzzz/newBsc/accounts/usbwallet/trezor"
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/common/hexutil"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/log"
+	"github.com/baijiahei888/newBsc1/accounts"
+	"github.com/baijiahei888/newBsc1/accounts/usbwallet/trezor"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/common/hexutil"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/log"
 	"github.com/golang/protobuf/proto"
 )
 

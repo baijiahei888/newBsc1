@@ -24,9 +24,9 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/phillinzzz/newBsc/crypto"
-	"github.com/phillinzzz/newBsc/internal/utesting"
-	"github.com/phillinzzz/newBsc/p2p/discover/v4wire"
+	"github.com/baijiahei888/newBsc1/crypto"
+	"github.com/baijiahei888/newBsc1/internal/utesting"
+	"github.com/baijiahei888/newBsc1/p2p/discover/v4wire"
 )
 
 const (

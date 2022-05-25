@@ -29,17 +29,17 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/common/gopool"
-	"github.com/phillinzzz/newBsc/common/mclock"
-	"github.com/phillinzzz/newBsc/crypto"
-	"github.com/phillinzzz/newBsc/event"
-	"github.com/phillinzzz/newBsc/log"
-	"github.com/phillinzzz/newBsc/p2p/discover"
-	"github.com/phillinzzz/newBsc/p2p/enode"
-	"github.com/phillinzzz/newBsc/p2p/enr"
-	"github.com/phillinzzz/newBsc/p2p/nat"
-	"github.com/phillinzzz/newBsc/p2p/netutil"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/common/gopool"
+	"github.com/baijiahei888/newBsc1/common/mclock"
+	"github.com/baijiahei888/newBsc1/crypto"
+	"github.com/baijiahei888/newBsc1/event"
+	"github.com/baijiahei888/newBsc1/log"
+	"github.com/baijiahei888/newBsc1/p2p/discover"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
+	"github.com/baijiahei888/newBsc1/p2p/enr"
+	"github.com/baijiahei888/newBsc1/p2p/nat"
+	"github.com/baijiahei888/newBsc1/p2p/netutil"
 )
 
 const (

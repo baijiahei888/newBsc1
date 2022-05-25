@@ -23,9 +23,9 @@ import (
 	"io"
 	"sort"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/ethdb/memorydb"
-	"github.com/phillinzzz/newBsc/trie"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/ethdb/memorydb"
+	"github.com/baijiahei888/newBsc1/trie"
 )
 
 type kv struct {

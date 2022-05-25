@@ -22,7 +22,7 @@ import (
 	"testing"
 
 	"github.com/docker/docker/pkg/reexec"
-	"github.com/phillinzzz/newBsc/internal/cmdtest"
+	"github.com/baijiahei888/newBsc1/internal/cmdtest"
 )
 
 type testEthkey struct {

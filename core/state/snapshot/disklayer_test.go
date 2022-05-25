@@ -23,12 +23,12 @@ import (
 	"testing"
 
 	"github.com/VictoriaMetrics/fastcache"
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/core/rawdb"
-	"github.com/phillinzzz/newBsc/ethdb"
-	"github.com/phillinzzz/newBsc/ethdb/leveldb"
-	"github.com/phillinzzz/newBsc/ethdb/memorydb"
-	"github.com/phillinzzz/newBsc/rlp"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/core/rawdb"
+	"github.com/baijiahei888/newBsc1/ethdb"
+	"github.com/baijiahei888/newBsc1/ethdb/leveldb"
+	"github.com/baijiahei888/newBsc1/ethdb/memorydb"
+	"github.com/baijiahei888/newBsc1/rlp"
 )
 
 // reverse reverses the contents of a byte slice. It's used to update random accs

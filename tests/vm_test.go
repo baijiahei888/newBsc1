@@ -19,7 +19,7 @@ package tests
 import (
 	"testing"
 
-	"github.com/phillinzzz/newBsc/core/vm"
+	"github.com/baijiahei888/newBsc1/core/vm"
 )
 
 func TestVM(t *testing.T) {

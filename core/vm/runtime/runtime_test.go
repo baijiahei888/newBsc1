@@ -24,16 +24,16 @@ import (
 	"testing"
 	"time"
 
-	"github.com/phillinzzz/newBsc/accounts/abi"
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/consensus"
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/core/asm"
-	"github.com/phillinzzz/newBsc/core/rawdb"
-	"github.com/phillinzzz/newBsc/core/state"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/core/vm"
-	"github.com/phillinzzz/newBsc/params"
+	"github.com/baijiahei888/newBsc1/accounts/abi"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/consensus"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/core/asm"
+	"github.com/baijiahei888/newBsc1/core/rawdb"
+	"github.com/baijiahei888/newBsc1/core/state"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/core/vm"
+	"github.com/baijiahei888/newBsc1/params"
 )
 
 func TestDefaults(t *testing.T) {
@@ -611,7 +611,7 @@ func TestEip2929Cases(t *testing.T) {
 
 // TestColdAccountAccessCost test that the cold account access cost is reported
 // correctly
-// see: https://github.com/phillinzzz/newBsc/issues/22649
+// see: https://github.com/baijiahei888/newBsc1/issues/22649
 func TestColdAccountAccessCost(t *testing.T) {
 	for i, tc := range []struct {
 		code []byte

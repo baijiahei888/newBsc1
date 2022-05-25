@@ -21,17 +21,17 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/consensus/ethash"
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/core/rawdb"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/core/vm"
-	"github.com/phillinzzz/newBsc/crypto"
-	"github.com/phillinzzz/newBsc/eth/downloader"
-	"github.com/phillinzzz/newBsc/ethdb"
-	"github.com/phillinzzz/newBsc/event"
-	"github.com/phillinzzz/newBsc/params"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/consensus/ethash"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/core/rawdb"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/core/vm"
+	"github.com/baijiahei888/newBsc1/crypto"
+	"github.com/baijiahei888/newBsc1/eth/downloader"
+	"github.com/baijiahei888/newBsc1/ethdb"
+	"github.com/baijiahei888/newBsc1/event"
+	"github.com/baijiahei888/newBsc1/params"
 )
 
 var (

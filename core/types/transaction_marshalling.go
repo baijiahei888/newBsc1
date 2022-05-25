@@ -21,8 +21,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/common/hexutil"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/common/hexutil"
 )
 
 // txJSON is the JSON representation of transactions.

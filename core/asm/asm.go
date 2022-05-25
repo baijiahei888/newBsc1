@@ -21,7 +21,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/phillinzzz/newBsc/core/vm"
+	"github.com/baijiahei888/newBsc1/core/vm"
 )
 
 // Iterator for disassembled EVM instructions

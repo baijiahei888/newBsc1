@@ -23,8 +23,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/crypto"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/crypto"
 )
 
 // The ABI holds information about a contract's context and available

@@ -21,10 +21,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/phillinzzz/newBsc/eth/downloader"
-	"github.com/phillinzzz/newBsc/eth/protocols/eth"
-	"github.com/phillinzzz/newBsc/p2p"
-	"github.com/phillinzzz/newBsc/p2p/enode"
+	"github.com/baijiahei888/newBsc1/eth/downloader"
+	"github.com/baijiahei888/newBsc1/eth/protocols/eth"
+	"github.com/baijiahei888/newBsc1/p2p"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
 )
 
 // Tests that fast sync is disabled after a successful sync cycle.

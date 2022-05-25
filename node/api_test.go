@@ -25,7 +25,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/rpc"
+	"github.com/baijiahei888/newBsc1/rpc"
 	"github.com/stretchr/testify/assert"
 )
 

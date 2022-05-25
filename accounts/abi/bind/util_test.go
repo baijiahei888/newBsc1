@@ -23,12 +23,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/phillinzzz/newBsc/accounts/abi/bind"
-	"github.com/phillinzzz/newBsc/accounts/abi/bind/backends"
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/crypto"
+	"github.com/baijiahei888/newBsc1/accounts/abi/bind"
+	"github.com/baijiahei888/newBsc1/accounts/abi/bind/backends"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/crypto"
 )
 
 var testKey, _ = crypto.HexToECDSA("b71c71a67e1177ad4e901695e1b4b9ee17ae16c6668d313eac2f96dbcda3f291")

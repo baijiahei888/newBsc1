@@ -19,12 +19,12 @@ package ethtest
 import (
 	"time"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/crypto"
-	"github.com/phillinzzz/newBsc/eth/protocols/eth"
-	"github.com/phillinzzz/newBsc/internal/utesting"
-	"github.com/phillinzzz/newBsc/p2p"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/crypto"
+	"github.com/baijiahei888/newBsc1/eth/protocols/eth"
+	"github.com/baijiahei888/newBsc1/internal/utesting"
+	"github.com/baijiahei888/newBsc1/p2p"
 )
 
 // Is_66 checks if the node supports the eth66 protocol version,

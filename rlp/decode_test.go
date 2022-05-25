@@ -27,7 +27,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/common/math"
+	"github.com/baijiahei888/newBsc1/common/math"
 )
 
 func TestStreamKind(t *testing.T) {

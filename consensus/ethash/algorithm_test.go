@@ -26,9 +26,9 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/common/hexutil"
-	"github.com/phillinzzz/newBsc/core/types"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/common/hexutil"
+	"github.com/baijiahei888/newBsc1/core/types"
 )
 
 // prepare converts an ethash cache or dataset from a byte stream into the internal

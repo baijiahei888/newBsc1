@@ -17,7 +17,7 @@
 package diff
 
 import (
-	"github.com/phillinzzz/newBsc/rlp"
+	"github.com/baijiahei888/newBsc1/rlp"
 )
 
 // enrEntry is the ENR entry which advertises `diff` protocol on the discovery.

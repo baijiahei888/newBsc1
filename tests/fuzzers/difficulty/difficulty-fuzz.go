@@ -23,8 +23,8 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/phillinzzz/newBsc/consensus/ethash"
-	"github.com/phillinzzz/newBsc/core/types"
+	"github.com/baijiahei888/newBsc1/consensus/ethash"
+	"github.com/baijiahei888/newBsc1/core/types"
 )
 
 type fuzzer struct {

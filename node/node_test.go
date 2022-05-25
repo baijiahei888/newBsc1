@@ -28,10 +28,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/crypto"
-	"github.com/phillinzzz/newBsc/ethdb"
-	"github.com/phillinzzz/newBsc/p2p"
-	"github.com/phillinzzz/newBsc/rpc"
+	"github.com/baijiahei888/newBsc1/crypto"
+	"github.com/baijiahei888/newBsc1/ethdb"
+	"github.com/baijiahei888/newBsc1/p2p"
+	"github.com/baijiahei888/newBsc1/rpc"
 
 	"github.com/stretchr/testify/assert"
 )

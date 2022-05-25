@@ -4,8 +4,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/phillinzzz/newBsc/consensus"
-	"github.com/phillinzzz/newBsc/core/types"
+	"github.com/baijiahei888/newBsc1/consensus"
+	"github.com/baijiahei888/newBsc1/core/types"
 )
 
 const (

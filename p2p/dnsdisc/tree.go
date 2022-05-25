@@ -26,10 +26,10 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/phillinzzz/newBsc/crypto"
-	"github.com/phillinzzz/newBsc/p2p/enode"
-	"github.com/phillinzzz/newBsc/p2p/enr"
-	"github.com/phillinzzz/newBsc/rlp"
+	"github.com/baijiahei888/newBsc1/crypto"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
+	"github.com/baijiahei888/newBsc1/p2p/enr"
+	"github.com/baijiahei888/newBsc1/rlp"
 	"golang.org/x/crypto/sha3"
 )
 

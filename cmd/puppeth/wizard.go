@@ -31,9 +31,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/log"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/log"
 	"golang.org/x/crypto/ssh/terminal"
 )
 

@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/common"
+	"github.com/baijiahei888/newBsc1/common"
 )
 
 func (g *G1) one() *PointG1 {

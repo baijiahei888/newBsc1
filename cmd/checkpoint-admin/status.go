@@ -19,8 +19,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/phillinzzz/newBsc/cmd/utils"
-	"github.com/phillinzzz/newBsc/common"
+	"github.com/baijiahei888/newBsc1/cmd/utils"
+	"github.com/baijiahei888/newBsc1/common"
 	"gopkg.in/urfave/cli.v1"
 )
 

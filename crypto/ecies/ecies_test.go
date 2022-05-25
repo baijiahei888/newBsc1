@@ -39,7 +39,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/crypto"
+	"github.com/baijiahei888/newBsc1/crypto"
 )
 
 func TestKDF(t *testing.T) {

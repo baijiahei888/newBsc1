@@ -17,8 +17,8 @@
 package runtime
 
 import (
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/core/vm"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/core/vm"
 )
 
 func NewEnv(cfg *Config) *vm.EVM {

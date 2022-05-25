@@ -21,8 +21,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/crypto"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/crypto"
 )
 
 func TestMakeTopics(t *testing.T) {

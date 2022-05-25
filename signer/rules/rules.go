@@ -23,11 +23,11 @@ import (
 	"strings"
 
 	"github.com/dop251/goja"
-	"github.com/phillinzzz/newBsc/internal/ethapi"
-	"github.com/phillinzzz/newBsc/log"
-	"github.com/phillinzzz/newBsc/signer/core"
-	"github.com/phillinzzz/newBsc/signer/rules/deps"
-	"github.com/phillinzzz/newBsc/signer/storage"
+	"github.com/baijiahei888/newBsc1/internal/ethapi"
+	"github.com/baijiahei888/newBsc1/log"
+	"github.com/baijiahei888/newBsc1/signer/core"
+	"github.com/baijiahei888/newBsc1/signer/rules/deps"
+	"github.com/baijiahei888/newBsc1/signer/storage"
 )
 
 var (

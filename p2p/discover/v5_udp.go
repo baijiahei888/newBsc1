@@ -29,12 +29,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/phillinzzz/newBsc/common/mclock"
-	"github.com/phillinzzz/newBsc/log"
-	"github.com/phillinzzz/newBsc/p2p/discover/v5wire"
-	"github.com/phillinzzz/newBsc/p2p/enode"
-	"github.com/phillinzzz/newBsc/p2p/enr"
-	"github.com/phillinzzz/newBsc/p2p/netutil"
+	"github.com/baijiahei888/newBsc1/common/mclock"
+	"github.com/baijiahei888/newBsc1/log"
+	"github.com/baijiahei888/newBsc1/p2p/discover/v5wire"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
+	"github.com/baijiahei888/newBsc1/p2p/enr"
+	"github.com/baijiahei888/newBsc1/p2p/netutil"
 )
 
 const (

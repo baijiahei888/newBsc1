@@ -24,14 +24,14 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/phillinzzz/newBsc/common/mclock"
-	"github.com/phillinzzz/newBsc/ethdb/memorydb"
-	"github.com/phillinzzz/newBsc/les/vflux"
-	vfs "github.com/phillinzzz/newBsc/les/vflux/server"
-	"github.com/phillinzzz/newBsc/log"
-	"github.com/phillinzzz/newBsc/p2p/enode"
-	"github.com/phillinzzz/newBsc/p2p/enr"
-	"github.com/phillinzzz/newBsc/rlp"
+	"github.com/baijiahei888/newBsc1/common/mclock"
+	"github.com/baijiahei888/newBsc1/ethdb/memorydb"
+	"github.com/baijiahei888/newBsc1/les/vflux"
+	vfs "github.com/baijiahei888/newBsc1/les/vflux/server"
+	"github.com/baijiahei888/newBsc1/log"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
+	"github.com/baijiahei888/newBsc1/p2p/enr"
+	"github.com/baijiahei888/newBsc1/rlp"
 )
 
 var (

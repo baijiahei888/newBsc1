@@ -27,7 +27,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/phillinzzz/newBsc/params"
+	"github.com/baijiahei888/newBsc1/params"
 )
 
 const (

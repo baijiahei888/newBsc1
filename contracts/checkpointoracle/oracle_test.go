@@ -27,13 +27,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/phillinzzz/newBsc/accounts/abi/bind"
-	"github.com/phillinzzz/newBsc/accounts/abi/bind/backends"
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/contracts/checkpointoracle/contract"
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/crypto"
-	"github.com/phillinzzz/newBsc/params"
+	"github.com/baijiahei888/newBsc1/accounts/abi/bind"
+	"github.com/baijiahei888/newBsc1/accounts/abi/bind/backends"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/contracts/checkpointoracle/contract"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/crypto"
+	"github.com/baijiahei888/newBsc1/params"
 )
 
 var (

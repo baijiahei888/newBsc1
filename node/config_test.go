@@ -24,8 +24,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/crypto"
-	"github.com/phillinzzz/newBsc/p2p"
+	"github.com/baijiahei888/newBsc1/crypto"
+	"github.com/baijiahei888/newBsc1/p2p"
 )
 
 // Tests that datadirs can be successfully created, be them manually configured

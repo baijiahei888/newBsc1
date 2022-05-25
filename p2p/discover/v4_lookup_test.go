@@ -23,10 +23,10 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/crypto"
-	"github.com/phillinzzz/newBsc/p2p/discover/v4wire"
-	"github.com/phillinzzz/newBsc/p2p/enode"
-	"github.com/phillinzzz/newBsc/p2p/enr"
+	"github.com/baijiahei888/newBsc1/crypto"
+	"github.com/baijiahei888/newBsc1/p2p/discover/v4wire"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
+	"github.com/baijiahei888/newBsc1/p2p/enr"
 )
 
 func TestUDPv4_Lookup(t *testing.T) {

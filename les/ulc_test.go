@@ -23,9 +23,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/phillinzzz/newBsc/crypto"
-	"github.com/phillinzzz/newBsc/p2p"
-	"github.com/phillinzzz/newBsc/p2p/enode"
+	"github.com/baijiahei888/newBsc1/crypto"
+	"github.com/baijiahei888/newBsc1/p2p"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
 )
 
 func TestULCAnnounceThresholdLes2(t *testing.T) { testULCAnnounceThreshold(t, 2) }

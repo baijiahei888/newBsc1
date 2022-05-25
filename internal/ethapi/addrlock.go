@@ -19,7 +19,7 @@ package ethapi
 import (
 	"sync"
 
-	"github.com/phillinzzz/newBsc/common"
+	"github.com/baijiahei888/newBsc1/common"
 )
 
 type AddrLocker struct {

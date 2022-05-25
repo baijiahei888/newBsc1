@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/phillinzzz/newBsc/core/vm"
-	"github.com/phillinzzz/newBsc/tests"
+	"github.com/baijiahei888/newBsc1/core/vm"
+	"github.com/baijiahei888/newBsc1/tests"
 	"gopkg.in/urfave/cli.v1"
 )
 

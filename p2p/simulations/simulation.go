@@ -20,7 +20,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/phillinzzz/newBsc/p2p/enode"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
 )
 
 // Simulation provides a framework for running actions in a simulated network

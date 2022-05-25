@@ -19,10 +19,10 @@ package state
 import (
 	"bytes"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/ethdb"
-	"github.com/phillinzzz/newBsc/rlp"
-	"github.com/phillinzzz/newBsc/trie"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/ethdb"
+	"github.com/baijiahei888/newBsc1/rlp"
+	"github.com/baijiahei888/newBsc1/trie"
 )
 
 // NewStateSync create a new state trie download scheduler.

@@ -20,9 +20,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/phillinzzz/newBsc/cmd/devp2p/internal/v5test"
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/p2p/discover"
+	"github.com/baijiahei888/newBsc1/cmd/devp2p/internal/v5test"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/p2p/discover"
 	"gopkg.in/urfave/cli.v1"
 )
 

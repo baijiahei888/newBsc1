@@ -26,11 +26,11 @@ import (
 	"os"
 	"strings"
 
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/core/forkid"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/params"
-	"github.com/phillinzzz/newBsc/rlp"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/core/forkid"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/params"
+	"github.com/baijiahei888/newBsc1/rlp"
 )
 
 type Chain struct {

@@ -25,13 +25,13 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/phillinzzz/newBsc/common/gopool"
-	"github.com/phillinzzz/newBsc/log"
-	"github.com/phillinzzz/newBsc/node"
-	"github.com/phillinzzz/newBsc/p2p"
-	"github.com/phillinzzz/newBsc/p2p/enode"
-	"github.com/phillinzzz/newBsc/p2p/simulations"
-	"github.com/phillinzzz/newBsc/p2p/simulations/adapters"
+	"github.com/baijiahei888/newBsc1/common/gopool"
+	"github.com/baijiahei888/newBsc1/log"
+	"github.com/baijiahei888/newBsc1/node"
+	"github.com/baijiahei888/newBsc1/p2p"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
+	"github.com/baijiahei888/newBsc1/p2p/simulations"
+	"github.com/baijiahei888/newBsc1/p2p/simulations/adapters"
 )
 
 var adapterType = flag.String("adapter", "sim", `node adapter to use (one of "sim", "exec" or "docker")`)

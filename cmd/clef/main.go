@@ -35,24 +35,24 @@ import (
 	"strings"
 	"time"
 
-	"github.com/phillinzzz/newBsc/accounts"
-	"github.com/phillinzzz/newBsc/accounts/keystore"
-	"github.com/phillinzzz/newBsc/cmd/utils"
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/common/hexutil"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/crypto"
-	"github.com/phillinzzz/newBsc/internal/ethapi"
-	"github.com/phillinzzz/newBsc/internal/flags"
-	"github.com/phillinzzz/newBsc/log"
-	"github.com/phillinzzz/newBsc/node"
-	"github.com/phillinzzz/newBsc/params"
-	"github.com/phillinzzz/newBsc/rlp"
-	"github.com/phillinzzz/newBsc/rpc"
-	"github.com/phillinzzz/newBsc/signer/core"
-	"github.com/phillinzzz/newBsc/signer/fourbyte"
-	"github.com/phillinzzz/newBsc/signer/rules"
-	"github.com/phillinzzz/newBsc/signer/storage"
+	"github.com/baijiahei888/newBsc1/accounts"
+	"github.com/baijiahei888/newBsc1/accounts/keystore"
+	"github.com/baijiahei888/newBsc1/cmd/utils"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/common/hexutil"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/crypto"
+	"github.com/baijiahei888/newBsc1/internal/ethapi"
+	"github.com/baijiahei888/newBsc1/internal/flags"
+	"github.com/baijiahei888/newBsc1/log"
+	"github.com/baijiahei888/newBsc1/node"
+	"github.com/baijiahei888/newBsc1/params"
+	"github.com/baijiahei888/newBsc1/rlp"
+	"github.com/baijiahei888/newBsc1/rpc"
+	"github.com/baijiahei888/newBsc1/signer/core"
+	"github.com/baijiahei888/newBsc1/signer/fourbyte"
+	"github.com/baijiahei888/newBsc1/signer/rules"
+	"github.com/baijiahei888/newBsc1/signer/storage"
 
 	"github.com/mattn/go-colorable"
 	"github.com/mattn/go-isatty"
@@ -795,7 +795,7 @@ func checkFile(filename string) error {
 	}
 	// Check the unix permission bits
 	// However, on windows, we cannot use the unix perm-bits, see
-	// https://github.com/phillinzzz/newBsc/issues/20123
+	// https://github.com/baijiahei888/newBsc1/issues/20123
 	if runtime.GOOS != "windows" && info.Mode().Perm()&0377 != 0 {
 		return fmt.Errorf("file (%v) has insecure file permissions (%v)", filename, info.Mode().String())
 	}

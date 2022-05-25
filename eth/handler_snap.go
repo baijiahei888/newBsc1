@@ -17,9 +17,9 @@
 package eth
 
 import (
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/eth/protocols/snap"
-	"github.com/phillinzzz/newBsc/p2p/enode"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/eth/protocols/snap"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
 )
 
 // snapHandler implements the snap.Backend interface to handle the various network

@@ -19,9 +19,9 @@ package eth
 import (
 	"time"
 
-	"github.com/phillinzzz/newBsc/common/bitutil"
-	"github.com/phillinzzz/newBsc/common/gopool"
-	"github.com/phillinzzz/newBsc/core/rawdb"
+	"github.com/baijiahei888/newBsc1/common/bitutil"
+	"github.com/baijiahei888/newBsc1/common/gopool"
+	"github.com/baijiahei888/newBsc1/core/rawdb"
 )
 
 const (

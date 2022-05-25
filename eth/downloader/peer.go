@@ -28,10 +28,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/eth/protocols/eth"
-	"github.com/phillinzzz/newBsc/event"
-	"github.com/phillinzzz/newBsc/log"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/eth/protocols/eth"
+	"github.com/baijiahei888/newBsc1/event"
+	"github.com/baijiahei888/newBsc1/log"
 )
 
 const (

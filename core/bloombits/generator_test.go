@@ -21,7 +21,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/core/types"
+	"github.com/baijiahei888/newBsc1/core/types"
 )
 
 // Tests that batched bloom bits are correctly rotated from the input bloom

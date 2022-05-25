@@ -17,7 +17,7 @@
 package snap
 
 import (
-	"github.com/phillinzzz/newBsc/rlp"
+	"github.com/baijiahei888/newBsc1/rlp"
 )
 
 // enrEntry is the ENR entry which advertises `snap` protocol on the discovery.

@@ -19,9 +19,9 @@ package misc
 import (
 	"fmt"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/params"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/params"
 )
 
 // VerifyForkHashes verifies that blocks conforming to network hard-forks do have

@@ -19,8 +19,8 @@ package trie
 import (
 	"fmt"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/log"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/log"
 )
 
 // SecureTrie wraps a trie with key hashing. In a secure trie, all

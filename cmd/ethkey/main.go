@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/phillinzzz/newBsc/internal/flags"
+	"github.com/baijiahei888/newBsc1/internal/flags"
 	"gopkg.in/urfave/cli.v1"
 )
 

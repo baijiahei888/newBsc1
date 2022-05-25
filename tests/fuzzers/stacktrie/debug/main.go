@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/phillinzzz/newBsc/tests/fuzzers/stacktrie"
+	"github.com/baijiahei888/newBsc1/tests/fuzzers/stacktrie"
 )
 
 func main() {

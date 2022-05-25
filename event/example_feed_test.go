@@ -19,7 +19,7 @@ package event_test
 import (
 	"fmt"
 
-	"github.com/phillinzzz/newBsc/event"
+	"github.com/baijiahei888/newBsc1/event"
 )
 
 func ExampleFeed_acknowledgedEvents() {

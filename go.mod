@@ -1,4 +1,4 @@
-module github.com/phillinzzz/newBsc
+module github.com/baijiahei888/newBsc1
 
 go 1.15
 

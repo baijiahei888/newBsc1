@@ -21,12 +21,12 @@ import (
 	"errors"
 	"time"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/core/rawdb"
-	"github.com/phillinzzz/newBsc/eth/downloader"
-	"github.com/phillinzzz/newBsc/light"
-	"github.com/phillinzzz/newBsc/log"
-	"github.com/phillinzzz/newBsc/params"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/core/rawdb"
+	"github.com/baijiahei888/newBsc1/eth/downloader"
+	"github.com/baijiahei888/newBsc1/light"
+	"github.com/baijiahei888/newBsc1/log"
+	"github.com/baijiahei888/newBsc1/params"
 )
 
 var errInvalidCheckpoint = errors.New("invalid advertised checkpoint")

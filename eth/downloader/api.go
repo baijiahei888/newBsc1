@@ -20,10 +20,10 @@ import (
 	"context"
 	"sync"
 
-	"github.com/phillinzzz/newBsc"
-	"github.com/phillinzzz/newBsc/common/gopool"
-	"github.com/phillinzzz/newBsc/event"
-	"github.com/phillinzzz/newBsc/rpc"
+	"github.com/baijiahei888/newBsc1"
+	"github.com/baijiahei888/newBsc1/common/gopool"
+	"github.com/baijiahei888/newBsc1/event"
+	"github.com/baijiahei888/newBsc1/rpc"
 )
 
 // PublicDownloaderAPI provides an API which gives information about the current synchronisation status.

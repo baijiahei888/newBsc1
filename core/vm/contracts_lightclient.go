@@ -4,8 +4,8 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/phillinzzz/newBsc/core/vm/lightclient"
-	"github.com/phillinzzz/newBsc/params"
+	"github.com/baijiahei888/newBsc1/core/vm/lightclient"
+	"github.com/baijiahei888/newBsc1/params"
 )
 
 const (

@@ -26,15 +26,15 @@ import (
 	"testing"
 	"time"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/consensus/ethash"
-	"github.com/phillinzzz/newBsc/console/prompt"
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/eth"
-	"github.com/phillinzzz/newBsc/eth/ethconfig"
-	"github.com/phillinzzz/newBsc/internal/jsre"
-	"github.com/phillinzzz/newBsc/miner"
-	"github.com/phillinzzz/newBsc/node"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/consensus/ethash"
+	"github.com/baijiahei888/newBsc1/console/prompt"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/eth"
+	"github.com/baijiahei888/newBsc1/eth/ethconfig"
+	"github.com/baijiahei888/newBsc1/internal/jsre"
+	"github.com/baijiahei888/newBsc1/miner"
+	"github.com/baijiahei888/newBsc1/node"
 )
 
 const (

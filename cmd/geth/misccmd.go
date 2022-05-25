@@ -23,9 +23,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/phillinzzz/newBsc/cmd/utils"
-	"github.com/phillinzzz/newBsc/consensus/ethash"
-	"github.com/phillinzzz/newBsc/params"
+	"github.com/baijiahei888/newBsc1/cmd/utils"
+	"github.com/baijiahei888/newBsc1/consensus/ethash"
+	"github.com/baijiahei888/newBsc1/params"
 	"gopkg.in/urfave/cli.v1"
 )
 

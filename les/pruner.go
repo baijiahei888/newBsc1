@@ -20,10 +20,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/phillinzzz/newBsc/common/math"
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/ethdb"
-	"github.com/phillinzzz/newBsc/log"
+	"github.com/baijiahei888/newBsc1/common/math"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/ethdb"
+	"github.com/baijiahei888/newBsc1/log"
 )
 
 // pruner is responsible for pruning historical light chain data.

@@ -23,7 +23,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/phillinzzz/newBsc/common/gopool"
+	"github.com/baijiahei888/newBsc1/common/gopool"
 )
 
 // stateFn is used through the lifetime of the

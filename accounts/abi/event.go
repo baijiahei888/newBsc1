@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/crypto"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/crypto"
 )
 
 // Event is an event potentially triggered by the EVM's LOG mechanism. The Event

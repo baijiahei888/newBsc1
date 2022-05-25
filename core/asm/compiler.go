@@ -22,8 +22,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/phillinzzz/newBsc/common/math"
-	"github.com/phillinzzz/newBsc/core/vm"
+	"github.com/baijiahei888/newBsc1/common/math"
+	"github.com/baijiahei888/newBsc1/core/vm"
 )
 
 // Compiler contains information about the parsed source

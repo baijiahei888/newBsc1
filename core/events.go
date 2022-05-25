@@ -17,8 +17,8 @@
 package core
 
 import (
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/core/types"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/core/types"
 )
 
 // NewTxsEvent is posted when a batch of transactions enter the transaction pool.

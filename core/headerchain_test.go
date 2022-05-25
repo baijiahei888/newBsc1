@@ -22,12 +22,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/phillinzzz/newBsc/consensus"
-	"github.com/phillinzzz/newBsc/consensus/ethash"
-	"github.com/phillinzzz/newBsc/core/rawdb"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/log"
-	"github.com/phillinzzz/newBsc/params"
+	"github.com/baijiahei888/newBsc1/consensus"
+	"github.com/baijiahei888/newBsc1/consensus/ethash"
+	"github.com/baijiahei888/newBsc1/core/rawdb"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/log"
+	"github.com/baijiahei888/newBsc1/params"
 )
 
 func verifyUnbrokenCanonchain(hc *HeaderChain) error {

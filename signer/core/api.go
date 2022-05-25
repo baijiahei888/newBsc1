@@ -25,15 +25,15 @@ import (
 	"os"
 	"reflect"
 
-	"github.com/phillinzzz/newBsc/accounts"
-	"github.com/phillinzzz/newBsc/accounts/keystore"
-	"github.com/phillinzzz/newBsc/accounts/scwallet"
-	"github.com/phillinzzz/newBsc/accounts/usbwallet"
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/common/hexutil"
-	"github.com/phillinzzz/newBsc/internal/ethapi"
-	"github.com/phillinzzz/newBsc/log"
-	"github.com/phillinzzz/newBsc/signer/storage"
+	"github.com/baijiahei888/newBsc1/accounts"
+	"github.com/baijiahei888/newBsc1/accounts/keystore"
+	"github.com/baijiahei888/newBsc1/accounts/scwallet"
+	"github.com/baijiahei888/newBsc1/accounts/usbwallet"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/common/hexutil"
+	"github.com/baijiahei888/newBsc1/internal/ethapi"
+	"github.com/baijiahei888/newBsc1/log"
+	"github.com/baijiahei888/newBsc1/signer/storage"
 )
 
 const (

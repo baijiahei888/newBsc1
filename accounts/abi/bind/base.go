@@ -22,12 +22,12 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/phillinzzz/newBsc"
-	"github.com/phillinzzz/newBsc/accounts/abi"
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/crypto"
-	"github.com/phillinzzz/newBsc/event"
+	"github.com/baijiahei888/newBsc1"
+	"github.com/baijiahei888/newBsc1/accounts/abi"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/crypto"
+	"github.com/baijiahei888/newBsc1/event"
 )
 
 // SignerFn is a signer function callback when a contract requires a method to

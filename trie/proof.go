@@ -21,11 +21,11 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/ethdb"
-	"github.com/phillinzzz/newBsc/ethdb/memorydb"
-	"github.com/phillinzzz/newBsc/log"
-	"github.com/phillinzzz/newBsc/rlp"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/ethdb"
+	"github.com/baijiahei888/newBsc1/ethdb/memorydb"
+	"github.com/baijiahei888/newBsc1/log"
+	"github.com/baijiahei888/newBsc1/rlp"
 )
 
 // Prove constructs a merkle proof for key. The result contains all encoded nodes

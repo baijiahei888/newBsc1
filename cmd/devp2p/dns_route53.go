@@ -30,8 +30,8 @@ import (
 	"github.com/aws/aws-sdk-go-v2/credentials"
 	"github.com/aws/aws-sdk-go-v2/service/route53"
 	"github.com/aws/aws-sdk-go-v2/service/route53/types"
-	"github.com/phillinzzz/newBsc/log"
-	"github.com/phillinzzz/newBsc/p2p/dnsdisc"
+	"github.com/baijiahei888/newBsc1/log"
+	"github.com/baijiahei888/newBsc1/p2p/dnsdisc"
 	"gopkg.in/urfave/cli.v1"
 )
 

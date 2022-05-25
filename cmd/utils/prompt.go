@@ -20,7 +20,7 @@ package utils
 import (
 	"fmt"
 
-	"github.com/phillinzzz/newBsc/console/prompt"
+	"github.com/baijiahei888/newBsc1/console/prompt"
 )
 
 // GetPassPhrase displays the given text(prompt) to the user and requests some textual

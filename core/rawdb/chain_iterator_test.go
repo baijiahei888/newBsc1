@@ -23,8 +23,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/core/types"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/core/types"
 )
 
 func TestChainIterator(t *testing.T) {

@@ -20,7 +20,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/ethdb"
+	"github.com/baijiahei888/newBsc1/ethdb"
 )
 
 func TestTableDatabase(t *testing.T)            { testTableDatabase(t, "prefix") }

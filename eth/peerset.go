@@ -21,12 +21,12 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/eth/downloader"
-	"github.com/phillinzzz/newBsc/eth/protocols/diff"
-	"github.com/phillinzzz/newBsc/eth/protocols/eth"
-	"github.com/phillinzzz/newBsc/eth/protocols/snap"
-	"github.com/phillinzzz/newBsc/p2p"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/eth/downloader"
+	"github.com/baijiahei888/newBsc1/eth/protocols/diff"
+	"github.com/baijiahei888/newBsc1/eth/protocols/eth"
+	"github.com/baijiahei888/newBsc1/eth/protocols/snap"
+	"github.com/baijiahei888/newBsc1/p2p"
 )
 
 var (

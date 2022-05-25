@@ -42,7 +42,7 @@ import (
 	"fmt"
 	"hash"
 
-	ethcrypto "github.com/phillinzzz/newBsc/crypto"
+	ethcrypto "github.com/baijiahei888/newBsc1/crypto"
 )
 
 var (

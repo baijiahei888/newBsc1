@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/phillinzzz/newBsc/log"
+	"github.com/baijiahei888/newBsc1/log"
 )
 
 // manageServers displays a list of servers the user can disconnect from, and an

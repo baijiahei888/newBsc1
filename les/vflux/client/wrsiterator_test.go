@@ -21,8 +21,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/phillinzzz/newBsc/common/mclock"
-	"github.com/phillinzzz/newBsc/p2p/nodestate"
+	"github.com/baijiahei888/newBsc1/common/mclock"
+	"github.com/baijiahei888/newBsc1/p2p/nodestate"
 )
 
 var (

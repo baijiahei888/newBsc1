@@ -26,10 +26,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/internal/testlog"
-	"github.com/phillinzzz/newBsc/log"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/internal/testlog"
+	"github.com/baijiahei888/newBsc1/log"
 )
 
 // Tests whether remote HTTP servers are correctly notified of new work.

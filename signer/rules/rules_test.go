@@ -22,13 +22,13 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/accounts"
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/common/hexutil"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/internal/ethapi"
-	"github.com/phillinzzz/newBsc/signer/core"
-	"github.com/phillinzzz/newBsc/signer/storage"
+	"github.com/baijiahei888/newBsc1/accounts"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/common/hexutil"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/internal/ethapi"
+	"github.com/baijiahei888/newBsc1/signer/core"
+	"github.com/baijiahei888/newBsc1/signer/storage"
 )
 
 const JS = `

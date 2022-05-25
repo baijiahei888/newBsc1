@@ -19,9 +19,9 @@ package eth
 import (
 	"fmt"
 
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/eth/protocols/diff"
-	"github.com/phillinzzz/newBsc/p2p/enode"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/eth/protocols/diff"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
 )
 
 // diffHandler implements the diff.Backend interface to handle the various network

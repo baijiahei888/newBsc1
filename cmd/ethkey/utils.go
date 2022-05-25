@@ -22,8 +22,8 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/phillinzzz/newBsc/cmd/utils"
-	"github.com/phillinzzz/newBsc/crypto"
+	"github.com/baijiahei888/newBsc1/cmd/utils"
+	"github.com/baijiahei888/newBsc1/crypto"
 	"gopkg.in/urfave/cli.v1"
 )
 

@@ -23,8 +23,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/log"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/log"
 	"github.com/olekukonko/tablewriter"
 )
 

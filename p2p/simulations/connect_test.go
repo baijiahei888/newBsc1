@@ -19,9 +19,9 @@ package simulations
 import (
 	"testing"
 
-	"github.com/phillinzzz/newBsc/node"
-	"github.com/phillinzzz/newBsc/p2p/enode"
-	"github.com/phillinzzz/newBsc/p2p/simulations/adapters"
+	"github.com/baijiahei888/newBsc1/node"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
+	"github.com/baijiahei888/newBsc1/p2p/simulations/adapters"
 )
 
 func newTestNetwork(t *testing.T, nodeCount int) (*Network, []enode.ID) {

@@ -19,15 +19,15 @@ package main
 import (
 	"strconv"
 
-	"github.com/phillinzzz/newBsc/accounts"
-	"github.com/phillinzzz/newBsc/accounts/abi/bind"
-	"github.com/phillinzzz/newBsc/accounts/external"
-	"github.com/phillinzzz/newBsc/cmd/utils"
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/contracts/checkpointoracle"
-	"github.com/phillinzzz/newBsc/ethclient"
-	"github.com/phillinzzz/newBsc/params"
-	"github.com/phillinzzz/newBsc/rpc"
+	"github.com/baijiahei888/newBsc1/accounts"
+	"github.com/baijiahei888/newBsc1/accounts/abi/bind"
+	"github.com/baijiahei888/newBsc1/accounts/external"
+	"github.com/baijiahei888/newBsc1/cmd/utils"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/contracts/checkpointoracle"
+	"github.com/baijiahei888/newBsc1/ethclient"
+	"github.com/baijiahei888/newBsc1/params"
+	"github.com/baijiahei888/newBsc1/rpc"
 	"gopkg.in/urfave/cli.v1"
 )
 

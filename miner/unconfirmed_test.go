@@ -19,7 +19,7 @@ package miner
 import (
 	"testing"
 
-	"github.com/phillinzzz/newBsc/core/types"
+	"github.com/baijiahei888/newBsc1/core/types"
 )
 
 // noopChainRetriever is an implementation of headerRetriever that always

@@ -24,17 +24,17 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/eth/downloader"
-	"github.com/phillinzzz/newBsc/eth/ethconfig"
-	"github.com/phillinzzz/newBsc/ethclient"
-	"github.com/phillinzzz/newBsc/ethstats"
-	"github.com/phillinzzz/newBsc/internal/debug"
-	"github.com/phillinzzz/newBsc/les"
-	"github.com/phillinzzz/newBsc/node"
-	"github.com/phillinzzz/newBsc/p2p"
-	"github.com/phillinzzz/newBsc/p2p/nat"
-	"github.com/phillinzzz/newBsc/params"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/eth/downloader"
+	"github.com/baijiahei888/newBsc1/eth/ethconfig"
+	"github.com/baijiahei888/newBsc1/ethclient"
+	"github.com/baijiahei888/newBsc1/ethstats"
+	"github.com/baijiahei888/newBsc1/internal/debug"
+	"github.com/baijiahei888/newBsc1/les"
+	"github.com/baijiahei888/newBsc1/node"
+	"github.com/baijiahei888/newBsc1/p2p"
+	"github.com/baijiahei888/newBsc1/p2p/nat"
+	"github.com/baijiahei888/newBsc1/params"
 )
 
 // NodeConfig represents the collection of configuration values to fine tune the Geth

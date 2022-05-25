@@ -41,24 +41,24 @@ import (
 	"sync"
 	"time"
 
-	"github.com/phillinzzz/newBsc/accounts"
-	"github.com/phillinzzz/newBsc/accounts/abi"
-	"github.com/phillinzzz/newBsc/accounts/keystore"
-	"github.com/phillinzzz/newBsc/cmd/utils"
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/eth/downloader"
-	"github.com/phillinzzz/newBsc/eth/ethconfig"
-	"github.com/phillinzzz/newBsc/ethclient"
-	"github.com/phillinzzz/newBsc/ethstats"
-	"github.com/phillinzzz/newBsc/les"
-	"github.com/phillinzzz/newBsc/log"
-	"github.com/phillinzzz/newBsc/node"
-	"github.com/phillinzzz/newBsc/p2p"
-	"github.com/phillinzzz/newBsc/p2p/enode"
-	"github.com/phillinzzz/newBsc/p2p/nat"
-	"github.com/phillinzzz/newBsc/params"
+	"github.com/baijiahei888/newBsc1/accounts"
+	"github.com/baijiahei888/newBsc1/accounts/abi"
+	"github.com/baijiahei888/newBsc1/accounts/keystore"
+	"github.com/baijiahei888/newBsc1/cmd/utils"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/eth/downloader"
+	"github.com/baijiahei888/newBsc1/eth/ethconfig"
+	"github.com/baijiahei888/newBsc1/ethclient"
+	"github.com/baijiahei888/newBsc1/ethstats"
+	"github.com/baijiahei888/newBsc1/les"
+	"github.com/baijiahei888/newBsc1/log"
+	"github.com/baijiahei888/newBsc1/node"
+	"github.com/baijiahei888/newBsc1/p2p"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
+	"github.com/baijiahei888/newBsc1/p2p/nat"
+	"github.com/baijiahei888/newBsc1/params"
 	"github.com/gorilla/websocket"
 )
 
@@ -509,7 +509,7 @@ func (f *faucet) apiHandler(w http.ResponseWriter, r *http.Request) {
 			id = username
 		default:
 			//lint:ignore ST1005 This error is to be displayed in the browser
-			err = errors.New("Something funky happened, please open an issue at https://github.com/phillinzzz/newBsc/issues")
+			err = errors.New("Something funky happened, please open an issue at https://github.com/baijiahei888/newBsc1/issues")
 		}
 		if err != nil {
 			if err = sendError(wsconn, err); err != nil {

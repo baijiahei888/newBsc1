@@ -21,9 +21,9 @@ package geth
 import (
 	"encoding/json"
 
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/p2p/enode"
-	"github.com/phillinzzz/newBsc/params"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
+	"github.com/baijiahei888/newBsc1/params"
 )
 
 // MainnetGenesis returns the JSON spec to use for the main Ethereum network. It

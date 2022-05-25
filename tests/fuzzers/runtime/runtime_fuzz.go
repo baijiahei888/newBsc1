@@ -17,7 +17,7 @@
 package runtime
 
 import (
-	"github.com/phillinzzz/newBsc/core/vm/runtime"
+	"github.com/baijiahei888/newBsc1/core/vm/runtime"
 )
 
 // Fuzz is the basic entry point for the go-fuzz tool

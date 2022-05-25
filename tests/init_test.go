@@ -31,7 +31,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/params"
+	"github.com/baijiahei888/newBsc1/params"
 )
 
 // Command line flags to configure the interpreters.

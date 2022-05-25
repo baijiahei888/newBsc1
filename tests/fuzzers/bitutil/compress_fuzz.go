@@ -19,7 +19,7 @@ package bitutil
 import (
 	"bytes"
 
-	"github.com/phillinzzz/newBsc/common/bitutil"
+	"github.com/baijiahei888/newBsc1/common/bitutil"
 )
 
 // Fuzz implements a go-fuzz fuzzer method to test various encoding method

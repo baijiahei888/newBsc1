@@ -19,7 +19,7 @@ package state
 import (
 	"math/big"
 
-	"github.com/phillinzzz/newBsc/common"
+	"github.com/baijiahei888/newBsc1/common"
 )
 
 // journalEntry is a modification entry in the state change journal that can be

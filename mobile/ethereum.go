@@ -21,8 +21,8 @@ package geth
 import (
 	"errors"
 
-	"github.com/phillinzzz/newBsc"
-	"github.com/phillinzzz/newBsc/common"
+	"github.com/baijiahei888/newBsc1"
+	"github.com/baijiahei888/newBsc1/common"
 )
 
 // Subscription represents an event subscription where events are

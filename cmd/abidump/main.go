@@ -23,8 +23,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/phillinzzz/newBsc/signer/core"
-	"github.com/phillinzzz/newBsc/signer/fourbyte"
+	"github.com/baijiahei888/newBsc1/signer/core"
+	"github.com/baijiahei888/newBsc1/signer/fourbyte"
 )
 
 func init() {

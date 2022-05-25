@@ -23,8 +23,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/ethdb"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/ethdb"
 )
 
 var (

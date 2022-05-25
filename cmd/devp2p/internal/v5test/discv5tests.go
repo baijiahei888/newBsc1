@@ -22,10 +22,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/phillinzzz/newBsc/internal/utesting"
-	"github.com/phillinzzz/newBsc/p2p/discover/v5wire"
-	"github.com/phillinzzz/newBsc/p2p/enode"
-	"github.com/phillinzzz/newBsc/p2p/netutil"
+	"github.com/baijiahei888/newBsc1/internal/utesting"
+	"github.com/baijiahei888/newBsc1/p2p/discover/v5wire"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
+	"github.com/baijiahei888/newBsc1/p2p/netutil"
 )
 
 // Suite is the discv5 test suite.

@@ -27,7 +27,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/common"
+	"github.com/baijiahei888/newBsc1/common"
 )
 
 // TestPack tests the general pack/unpack tests in packing_test.go

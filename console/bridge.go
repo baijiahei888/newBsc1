@@ -25,12 +25,12 @@ import (
 	"time"
 
 	"github.com/dop251/goja"
-	"github.com/phillinzzz/newBsc/accounts/scwallet"
-	"github.com/phillinzzz/newBsc/accounts/usbwallet"
-	"github.com/phillinzzz/newBsc/common/hexutil"
-	"github.com/phillinzzz/newBsc/console/prompt"
-	"github.com/phillinzzz/newBsc/internal/jsre"
-	"github.com/phillinzzz/newBsc/rpc"
+	"github.com/baijiahei888/newBsc1/accounts/scwallet"
+	"github.com/baijiahei888/newBsc1/accounts/usbwallet"
+	"github.com/baijiahei888/newBsc1/common/hexutil"
+	"github.com/baijiahei888/newBsc1/console/prompt"
+	"github.com/baijiahei888/newBsc1/internal/jsre"
+	"github.com/baijiahei888/newBsc1/rpc"
 )
 
 // bridge is a collection of JavaScript utility methods to bride the .js runtime

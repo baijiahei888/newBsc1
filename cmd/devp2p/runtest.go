@@ -19,9 +19,9 @@ package main
 import (
 	"os"
 
-	"github.com/phillinzzz/newBsc/cmd/devp2p/internal/v4test"
-	"github.com/phillinzzz/newBsc/internal/utesting"
-	"github.com/phillinzzz/newBsc/log"
+	"github.com/baijiahei888/newBsc1/cmd/devp2p/internal/v4test"
+	"github.com/baijiahei888/newBsc1/internal/utesting"
+	"github.com/baijiahei888/newBsc1/log"
 	"gopkg.in/urfave/cli.v1"
 )
 

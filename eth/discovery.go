@@ -17,10 +17,10 @@
 package eth
 
 import (
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/core/forkid"
-	"github.com/phillinzzz/newBsc/p2p/enode"
-	"github.com/phillinzzz/newBsc/rlp"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/core/forkid"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
+	"github.com/baijiahei888/newBsc1/rlp"
 )
 
 // ethEntry is the "eth" ENR entry which advertises eth protocol

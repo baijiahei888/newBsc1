@@ -19,9 +19,9 @@ package client
 import (
 	"time"
 
-	"github.com/phillinzzz/newBsc/common/mclock"
-	"github.com/phillinzzz/newBsc/les/utils"
-	"github.com/phillinzzz/newBsc/p2p/enode"
+	"github.com/baijiahei888/newBsc1/common/mclock"
+	"github.com/baijiahei888/newBsc1/les/utils"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
 )
 
 // PrivateClientAPI implements the vflux client side API

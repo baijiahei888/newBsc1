@@ -20,9 +20,9 @@ import (
 	"bytes"
 	"sync"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/crypto"
-	"github.com/phillinzzz/newBsc/rlp"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/crypto"
+	"github.com/baijiahei888/newBsc1/rlp"
 	"golang.org/x/crypto/sha3"
 )
 

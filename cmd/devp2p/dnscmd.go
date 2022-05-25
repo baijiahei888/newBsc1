@@ -25,11 +25,11 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/phillinzzz/newBsc/accounts/keystore"
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/console/prompt"
-	"github.com/phillinzzz/newBsc/p2p/dnsdisc"
-	"github.com/phillinzzz/newBsc/p2p/enode"
+	"github.com/baijiahei888/newBsc1/accounts/keystore"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/console/prompt"
+	"github.com/baijiahei888/newBsc1/p2p/dnsdisc"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
 	"gopkg.in/urfave/cli.v1"
 )
 

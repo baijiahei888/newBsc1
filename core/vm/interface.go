@@ -19,8 +19,8 @@ package vm
 import (
 	"math/big"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/core/types"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/core/types"
 )
 
 // StateDB is an EVM database for full state querying.

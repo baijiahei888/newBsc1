@@ -24,8 +24,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/common/hexutil"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/common/hexutil"
 )
 
 // Hash represents the 32 byte Keccak256 hash of arbitrary data.

@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/phillinzzz/newBsc/crypto"
+	"github.com/baijiahei888/newBsc1/crypto"
 )
 
 // FunctionType represents different types of functions a contract might have.

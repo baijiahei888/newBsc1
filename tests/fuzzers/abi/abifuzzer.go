@@ -21,7 +21,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/phillinzzz/newBsc/accounts/abi"
+	"github.com/baijiahei888/newBsc1/accounts/abi"
 	fuzz "github.com/google/gofuzz"
 )
 

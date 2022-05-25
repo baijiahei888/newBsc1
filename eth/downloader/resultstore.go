@@ -21,7 +21,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/phillinzzz/newBsc/core/types"
+	"github.com/baijiahei888/newBsc1/core/types"
 )
 
 // resultStore implements a structure for maintaining fetchResults, tracking their

@@ -21,8 +21,8 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/event"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/event"
 )
 
 // Config contains the settings of the global account manager.

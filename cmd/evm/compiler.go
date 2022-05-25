@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/phillinzzz/newBsc/cmd/evm/internal/compiler"
+	"github.com/baijiahei888/newBsc1/cmd/evm/internal/compiler"
 
 	"gopkg.in/urfave/cli.v1"
 )

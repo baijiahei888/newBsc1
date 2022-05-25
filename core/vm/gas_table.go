@@ -19,9 +19,9 @@ package vm
 import (
 	"errors"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/common/math"
-	"github.com/phillinzzz/newBsc/params"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/common/math"
+	"github.com/baijiahei888/newBsc1/params"
 )
 
 // memoryGasCost calculates the quadratic gas for memory expansion. It does so

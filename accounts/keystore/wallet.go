@@ -19,10 +19,10 @@ package keystore
 import (
 	"math/big"
 
-	"github.com/phillinzzz/newBsc"
-	"github.com/phillinzzz/newBsc/accounts"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/crypto"
+	"github.com/baijiahei888/newBsc1"
+	"github.com/baijiahei888/newBsc1/accounts"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/crypto"
 )
 
 // keystoreWallet implements the accounts.Wallet interface for the original

@@ -20,8 +20,8 @@
 package node
 
 import (
-	"github.com/phillinzzz/newBsc/p2p"
-	"github.com/phillinzzz/newBsc/rpc"
+	"github.com/baijiahei888/newBsc1/p2p"
+	"github.com/baijiahei888/newBsc1/rpc"
 )
 
 // NoopLifecycle is a trivial implementation of the Service interface.

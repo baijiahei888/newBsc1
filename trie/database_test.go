@@ -19,8 +19,8 @@ package trie
 import (
 	"testing"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/ethdb/memorydb"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/ethdb/memorydb"
 )
 
 // Tests that the trie database returns a missing trie node error if attempting

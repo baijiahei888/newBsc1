@@ -17,9 +17,9 @@
 package snap
 
 import (
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/log"
-	"github.com/phillinzzz/newBsc/p2p"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/log"
+	"github.com/baijiahei888/newBsc1/p2p"
 )
 
 // Peer is a collection of relevant information we have about a `snap` peer.

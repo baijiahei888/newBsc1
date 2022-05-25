@@ -29,11 +29,11 @@ import (
 	"syscall"
 
 	"github.com/dop251/goja"
-	"github.com/phillinzzz/newBsc/console/prompt"
-	"github.com/phillinzzz/newBsc/internal/jsre"
-	"github.com/phillinzzz/newBsc/internal/jsre/deps"
-	"github.com/phillinzzz/newBsc/internal/web3ext"
-	"github.com/phillinzzz/newBsc/rpc"
+	"github.com/baijiahei888/newBsc1/console/prompt"
+	"github.com/baijiahei888/newBsc1/internal/jsre"
+	"github.com/baijiahei888/newBsc1/internal/jsre/deps"
+	"github.com/baijiahei888/newBsc1/internal/web3ext"
+	"github.com/baijiahei888/newBsc1/rpc"
 	"github.com/mattn/go-colorable"
 	"github.com/peterh/liner"
 )

@@ -58,9 +58,9 @@ import (
 	"time"
 
 	"github.com/cespare/cp"
-	"github.com/phillinzzz/newBsc/crypto/signify"
-	"github.com/phillinzzz/newBsc/internal/build"
-	"github.com/phillinzzz/newBsc/params"
+	"github.com/baijiahei888/newBsc1/crypto/signify"
+	"github.com/baijiahei888/newBsc1/internal/build"
+	"github.com/baijiahei888/newBsc1/params"
 )
 
 var (
@@ -838,7 +838,7 @@ func doAndroidArchive(cmdline []string) {
 	build.MustRun(tc.Go("mod", "download"))
 
 	// Build the Android archive and Maven resources
-	build.MustRun(gomobileTool("bind", "-ldflags", "-s -w", "--target", "android", "--javapkg", "org.ethereum", "-v", "github.com/phillinzzz/newBsc/mobile"))
+	build.MustRun(gomobileTool("bind", "-ldflags", "-s -w", "--target", "android", "--javapkg", "org.ethereum", "-v", "github.com/baijiahei888/newBsc1/mobile"))
 
 	if *local {
 		// If we're building locally, copy bundle to build dir and skip Maven
@@ -967,7 +967,7 @@ func doXCodeFramework(cmdline []string) {
 	build.MustRun(tc.Go("mod", "download"))
 
 	// Build the iOS XCode framework
-	bind := gomobileTool("bind", "-ldflags", "-s -w", "--target", "ios", "-v", "github.com/phillinzzz/newBsc/mobile")
+	bind := gomobileTool("bind", "-ldflags", "-s -w", "--target", "ios", "-v", "github.com/baijiahei888/newBsc1/mobile")
 
 	if *local {
 		// If we're building locally, use the build folder and stop afterwards

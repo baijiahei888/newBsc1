@@ -21,7 +21,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/common/hexutil"
+	"github.com/baijiahei888/newBsc1/common/hexutil"
 )
 
 // Tests that data bitset encoding and decoding works and is bijective.

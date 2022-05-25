@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/core/vm/lightclient"
+	"github.com/baijiahei888/newBsc1/core/vm/lightclient"
 	"github.com/stretchr/testify/require"
 )
 

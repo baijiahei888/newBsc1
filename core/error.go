@@ -19,7 +19,7 @@ package core
 import (
 	"errors"
 
-	"github.com/phillinzzz/newBsc/core/types"
+	"github.com/baijiahei888/newBsc1/core/types"
 )
 
 var (

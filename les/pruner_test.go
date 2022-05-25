@@ -23,8 +23,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/light"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/light"
 )
 
 func TestLightPruner(t *testing.T) {

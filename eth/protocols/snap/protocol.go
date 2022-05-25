@@ -20,9 +20,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/core/state/snapshot"
-	"github.com/phillinzzz/newBsc/rlp"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/core/state/snapshot"
+	"github.com/baijiahei888/newBsc1/rlp"
 )
 
 // Constants to match up protocol versions and messages

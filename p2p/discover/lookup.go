@@ -20,8 +20,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/phillinzzz/newBsc/common/gopool"
-	"github.com/phillinzzz/newBsc/p2p/enode"
+	"github.com/baijiahei888/newBsc1/common/gopool"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
 )
 
 // lookup performs a network search for nodes close to the given target. It approaches the

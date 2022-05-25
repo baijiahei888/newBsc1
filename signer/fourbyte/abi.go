@@ -23,8 +23,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/phillinzzz/newBsc/accounts/abi"
-	"github.com/phillinzzz/newBsc/common"
+	"github.com/baijiahei888/newBsc1/accounts/abi"
+	"github.com/baijiahei888/newBsc1/common"
 )
 
 // decodedCallData is an internal type to represent a method call parsed according

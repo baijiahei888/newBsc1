@@ -24,10 +24,10 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/phillinzzz/newBsc/common/hexutil"
-	"github.com/phillinzzz/newBsc/console/prompt"
-	"github.com/phillinzzz/newBsc/internal/ethapi"
-	"github.com/phillinzzz/newBsc/log"
+	"github.com/baijiahei888/newBsc1/common/hexutil"
+	"github.com/baijiahei888/newBsc1/console/prompt"
+	"github.com/baijiahei888/newBsc1/internal/ethapi"
+	"github.com/baijiahei888/newBsc1/log"
 )
 
 type CommandlineUI struct {

@@ -19,7 +19,7 @@ package types
 import (
 	"math/big"
 
-	"github.com/phillinzzz/newBsc/common"
+	"github.com/baijiahei888/newBsc1/common"
 )
 
 // LegacyTx is the transaction data of regular Ethereum transactions.

@@ -20,7 +20,7 @@ import (
 	"math"
 	"math/rand"
 
-	"github.com/phillinzzz/newBsc/log"
+	"github.com/baijiahei888/newBsc1/log"
 )
 
 type (

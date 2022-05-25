@@ -22,8 +22,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/phillinzzz/newBsc/common/mclock"
-	"github.com/phillinzzz/newBsc/common/prque"
+	"github.com/baijiahei888/newBsc1/common/mclock"
+	"github.com/baijiahei888/newBsc1/common/prque"
 )
 
 // cmNodeFields are ClientNode fields used by the client manager

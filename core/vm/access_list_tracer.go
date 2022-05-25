@@ -20,8 +20,8 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/phillinzzz/newBsc/common"
-	"github.com/phillinzzz/newBsc/core/types"
+	"github.com/baijiahei888/newBsc1/common"
+	"github.com/baijiahei888/newBsc1/core/types"
 )
 
 // accessList is an accumulator for the set of accounts and storage slots an EVM

@@ -20,7 +20,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/common/hexutil"
+	"github.com/baijiahei888/newBsc1/common/hexutil"
 )
 
 func TestTextHash(t *testing.T) {

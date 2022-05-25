@@ -19,7 +19,7 @@ package snapshot
 import (
 	"bytes"
 
-	"github.com/phillinzzz/newBsc/common"
+	"github.com/baijiahei888/newBsc1/common"
 )
 
 // binaryIterator is a simplistic iterator to step over the accounts or storage

@@ -19,7 +19,7 @@ package snap
 import (
 	"testing"
 
-	"github.com/phillinzzz/newBsc/common"
+	"github.com/baijiahei888/newBsc1/common"
 )
 
 // Tests that given a starting hash and a density, the hash ranger can correctly

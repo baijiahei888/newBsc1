@@ -19,9 +19,9 @@ package client
 import (
 	"sync"
 
-	"github.com/phillinzzz/newBsc/les/utils"
-	"github.com/phillinzzz/newBsc/p2p/enode"
-	"github.com/phillinzzz/newBsc/p2p/nodestate"
+	"github.com/baijiahei888/newBsc1/les/utils"
+	"github.com/baijiahei888/newBsc1/p2p/enode"
+	"github.com/baijiahei888/newBsc1/p2p/nodestate"
 )
 
 // WrsIterator returns nodes from the specified selectable set with a weighted random

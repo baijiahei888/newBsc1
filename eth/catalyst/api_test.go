@@ -20,15 +20,15 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/phillinzzz/newBsc/consensus/ethash"
-	"github.com/phillinzzz/newBsc/core"
-	"github.com/phillinzzz/newBsc/core/rawdb"
-	"github.com/phillinzzz/newBsc/core/types"
-	"github.com/phillinzzz/newBsc/crypto"
-	"github.com/phillinzzz/newBsc/eth"
-	"github.com/phillinzzz/newBsc/eth/ethconfig"
-	"github.com/phillinzzz/newBsc/node"
-	"github.com/phillinzzz/newBsc/params"
+	"github.com/baijiahei888/newBsc1/consensus/ethash"
+	"github.com/baijiahei888/newBsc1/core"
+	"github.com/baijiahei888/newBsc1/core/rawdb"
+	"github.com/baijiahei888/newBsc1/core/types"
+	"github.com/baijiahei888/newBsc1/crypto"
+	"github.com/baijiahei888/newBsc1/eth"
+	"github.com/baijiahei888/newBsc1/eth/ethconfig"
+	"github.com/baijiahei888/newBsc1/node"
+	"github.com/baijiahei888/newBsc1/params"
 )
 
 var (

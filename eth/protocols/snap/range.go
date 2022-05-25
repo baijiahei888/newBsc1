@@ -19,7 +19,7 @@ package snap
 import (
 	"math/big"
 
-	"github.com/phillinzzz/newBsc/common"
+	"github.com/baijiahei888/newBsc1/common"
 	"github.com/holiman/uint256"
 )
 

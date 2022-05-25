@@ -19,7 +19,7 @@ package snapshot
 import (
 	"bytes"
 
-	"github.com/phillinzzz/newBsc/common"
+	"github.com/baijiahei888/newBsc1/common"
 )
 
 // hashes is a helper to implement sort.Interface.
